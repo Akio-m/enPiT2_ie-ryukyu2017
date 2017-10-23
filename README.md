@@ -13,7 +13,6 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * notes:
 ```
 
-```
 ## ER "レシコミ(仮)"
 * description: レシートと冷蔵庫の物を利用したコミュニティ形成支援アプリ
 * source: https://github.com/AnaTofuZ/enpit_er
@@ -23,7 +22,6 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * members: @nemunemuryo (RyoTakematsu) @psato (TakumiSato)  @doubleQvel(KazukiMatsumoto) @AnaTofuZ (TakahiroShimizu) @seike1116 (TakumiSeike)
 * business hours:  monday 16:20-17:50, thursday 19:00-20:00
 * notes:
-```
 
 ## notes
 
