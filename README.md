@@ -46,3 +46,19 @@ please update your service by your self
 * business hours:18:00 - 20:00 on Tuesday  16:20 - 20:00 on Thursday
 * notes:デイリースクラムはslackにて18:00~22:00の間行う
 
+## AR班「remote」 "ARuke"
+* description: このアプリは, ウォーキングを推奨するアプリです.
+* source: https://github.com/e155707/remote
+* service: it's IOS11 app
+* CI/test: travis CI URL
+* backlog: https://trello.com/b/1rdwiUnx/aruke
+* members: 
+    - e155707 (maemoto akiho)
+    - 155732  (arakaki yuichiro)
+    - e155753 (akahori kiichi)
+    - masaakiy(yamada masaki)
+* Business Hours:
+    - Monday 15:00 ~ 17:00
+    - Friday 13:00 ~ 14:20
+* notes:
+
