@@ -23,6 +23,18 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * business hours:  monday 16:20-17:50, thursday 19:00-20:00
 * notes:
 
+## チーム「読み太。」 "読み太。"
+* Product Backlog: https://trello.com/b/Xk1orLQS/%E8%AA%AD%E3%81%BF%E3%81%9Flog2
+* Members:<br>
+YutaMiyagi(@e155721)<br>
+HiroyaSunagawa(@SunagawaHiro)<br>
+MichiruTakamine(@minemichi)<br>
+ShogoKuba(@98kuba)<br>
+ShoichiroYamazato(@o-yama)
+* Service URL: https://yomita.herokuapp.com/
+* Business Hours: 未定
+* notes:
+
 ## notes
 
 please update your service by your self
