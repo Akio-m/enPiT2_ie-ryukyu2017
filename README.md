@@ -29,7 +29,7 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * service: https://yomita.herokuapp.com/
 * CI/test: 未定
 * backlog: https://trello.com/b/Xk1orLQS/%E8%AA%AD%E3%81%BF%E3%81%9Flog2
-* members:<br>YutaMiyagi(@e155721)<br>HiroyaSunagawa(@SunagawaHiro)<br>MichiruTakamine(@minemichi)<br>ShogoKuba(@98kuba)<br>ShoichiroYamazato(@o-yama)
+* members: YutaMiyagi(@e155721) HiroyaSunagawa(@SunagawaHiro) MichiruTakamine(@minemichi) ShogoKuba(@98kuba) ShoichiroYamazato(@o-yama)
 * business hours: 未定
 * notes:
 
