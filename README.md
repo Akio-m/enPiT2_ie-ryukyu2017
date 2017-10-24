@@ -12,6 +12,9 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * business hours: e.g. monday 20:10-21:40, saturday 13:00-14:30
 * notes:
 ```
+## notes
+
+please update your service by your self
 
 ## ER "レシコミ(仮)"
 * description: レシートと冷蔵庫の物を利用したコミュニティ形成支援アプリ
@@ -33,19 +36,13 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 * business hours: 未定
 * notes:
 
-## notes
-
-please update your service by your self
-
-
 ## n_b_b "アトオス"
 * description: 女子からのリアルな意見をもらうことによって男子の恋愛を支援するアプリ
 * source: https://github.com/kyan-syoya/n_b_b
 * service: https://ato-su.herokuapp.com
 * CI/test: 未定
 * backlog: https://trello.com/b/k4vTOLVZ
-* members: e155745(Ibuki Kawamitsu) 　irish15(Airi Kinjo) zanaka(Rika Nakaza)  kyan-syoya(Syoya Kyan) e155714(Umi Shinjo)
-e155737(Naoya Matsumoto)
+* members: e155745(Ibuki Kawamitsu) 　irish15(Airi Kinjo) zanaka(Rika Nakaza)  kyan-syoya(Syoya Kyan) e155714(Umi Shinjo) e155737(Naoya Matsumoto)
 * business hours:18:00 - 20:00 on Tuesday  16:20 - 20:00 on Thursday
 * notes:デイリースクラムはslackにて18:00~22:00の間行う
 
