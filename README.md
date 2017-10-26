@@ -50,7 +50,7 @@ please update your service by your self
 * description: お部屋を自由にカスタマイズ&おままごとができるARアプリ
 * source: https://github.com/ooshirooo/teamH
 * service: サービスのURLはありません
-* CI/test: ?????
+* CI/test: ありません
 * backlog: http://linoit.com/groups/Backlog%28Release1%29/canvases/Backlog%28Release1%29#e51978043
 * members: zacrich(Yumi Nagata)yuka(Yuka Kiyuna)ooshirooo(Yukiya Oshiro)risa(Risa Kakazu)RyogaHiramoto(Ryoga Hiramoto)
 * business hours: Friday 16:20-18:00, Sunday 18:00-
