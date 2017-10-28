@@ -55,3 +55,21 @@ please update your service by your self
 * members: zacrich(Yumi Nagata)yuka(Yuka Kiyuna)ooshirooo(Yukiya Oshiro)risa(Risa Kakazu)RyogaHiramoto(Ryoga Hiramoto)
 * business hours: Friday 16:20-18:00, Sunday 18:00-
 * notes:
+
+## AR班「remote」 "ARuke"
+* description: このアプリは, ウォーキングを推奨するアプリです.
+* source: https://github.com/e155707/remote
+* service: なし
+* CI/test: なし
+* backlog: https://trello.com/b/1rdwiUnx/aruke
+* members: 
+    - e155707 (maemoto akiho)
+    - 155732  (arakaki yuichiro)
+    - e155753 (akahori kiichi)
+    - masaakiy(yamada masaki)
+* Business Hours:
+    - Monday 15:00 ~ 17:00
+    - Friday 13:00 ~ 14:20
+* notes:
+
+
