@@ -46,11 +46,21 @@ please update your service by your self
 * business hours:18:00 - 20:00 on Tuesday  16:20 - 20:00 on Thursday
 * notes:デイリースクラムはslackにて18:00~22:00の間行う
 
+## ar-h "おままごとハウス(仮)"
+* description: お部屋を自由にカスタマイズ&おままごとができるARアプリ
+* source: https://github.com/ooshirooo/teamH
+* service: サービスのURLはありません
+* CI/test: ありません
+* backlog: http://linoit.com/groups/Backlog%28Release1%29/canvases/Backlog%28Release1%29#e51978043
+* members: zacrich(Yumi Nagata)yuka(Yuka Kiyuna)ooshirooo(Yukiya Oshiro)risa(Risa Kakazu)RyogaHiramoto(Ryoga Hiramoto)
+* business hours: Friday 16:20-18:00, Sunday 18:00-
+* notes:
+
 ## AR班「remote」 "ARuke"
 * description: このアプリは, ウォーキングを推奨するアプリです.
 * source: https://github.com/e155707/remote
-* service: it's IOS11 app
-* CI/test: travis CI URL
+* service: なし
+* CI/test: なし
 * backlog: https://trello.com/b/1rdwiUnx/aruke
 * members: 
     - e155707 (maemoto akiho)
@@ -61,4 +71,5 @@ please update your service by your self
     - Monday 15:00 ~ 17:00
     - Friday 13:00 ~ 14:20
 * notes:
+
 
