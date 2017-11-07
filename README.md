@@ -16,10 +16,10 @@ Web Business Application development by agile method in class 2017 at ie-ryukyu
 
 please update your service by your self
 
-## ER "レシコミ(仮)"
-* description: レシートと冷蔵庫の物を利用したコミュニティ形成支援アプリ
+## ER "レシコミ"
+* description: レシートと家の食材を利用したコミュニティ形成支援アプリ
 * source: https://github.com/AnaTofuZ/enpit_er
-* service: https://ancient-forest-28943.herokuapp.com/
+* service: https://rececomi.herokuapp.com/
 * CI/test: https://travis-ci.org/AnaTofuZ/enpit_er
 * backlog: https://trello.com/b/4jnlXckt
 * members: @nemunemuryo (RyoTakematsu) @psato (TakumiSato)  @doubleQvel(KazukiMatsumoto) @AnaTofuZ (TakahiroShimizu) @seike1116 (TakumiSeike)
