@@ -61,8 +61,8 @@ please update your service by your self
 * source: https://github.com/e155707/remote
 * service: なし
 * CI/test: なし
-* backlog: https://trello.com/b/1rdwiUnx/aruke
-* members: 
+* backlog: https://trello.com/b/LTfAZTUG
+* members:
     - e155707 (maemoto akiho)
     - 155732  (arakaki yuichiro)
     - e155753 (akahori kiichi)
